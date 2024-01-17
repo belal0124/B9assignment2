@@ -44,11 +44,12 @@ body {
     justify-content: space-between;
     font-size: 18px;
     align-items: center;
-    }
+}
 
     .items-container a{
         text-decoration: none;
-        .good{
-            color: #FF5400;
-        }
+        
+    }
+    .good{
+        color: #FF5400;
     }
